@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**olsmca/olsmca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name Oliver Smith, I'm from Colombia and I'm a Developer
 
-Here are some ideas to get you started:
+* Currently working on [Sura](https://www.segurossura.com.co/paginas/default.aspx) quality assurance with DevOps 
+* I  Have over 10 years of experience in software development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+* Using Java in production since 2010
+* Critical thinking, decision-making and problem solving skills
+* Azure, Aws, Docker, Kubernetes, among other cloud topics
+* CI tools with Jenkins, Azure DevOps, Github Actions
+* Script with Groovy and some coding Python or Nodejs
+* Testing with Selenium, Screenplay, Cypress, Jmeter, Postman
+
+## Contact
+
+Find all about my in [Oliver Smith](https://www.linkedin.com/in/olsmca/)
