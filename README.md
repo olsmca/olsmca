@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 My name Oliver Smith, I'm from Colombia and I'm a Developer
 
@@ -13,6 +13,8 @@ My name Oliver Smith, I'm from Colombia and I'm a Developer
 * CI tools with Jenkins, Azure DevOps, Github Actions
 * Script with Groovy and some coding Python or Nodejs
 * Testing with Selenium, Screenplay, Cypress, Jmeter, Postman
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olsmca&layout=compact)]
 
 ## Contact
 
