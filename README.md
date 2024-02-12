@@ -1,8 +1,8 @@
 ### Hi 👋
 
-My name Oliver Smith, I'm from Colombia and I'm a Developer
+My name Oliver Smith, I'm from Colombia and I'm a SRE
 
-* Currently working on [Sura](https://www.segurossura.com.co/paginas/default.aspx) quality assurance with DevOps 
+* Currently working on [ADL Digital Lab]([https://www.segurossura.com.co/paginas/default.aspx](https://www.adldigitallab.com/)) quality assurance with DevOps 
 * I  Have over 10 years of experience in software development
 
 ## Skills
@@ -13,6 +13,7 @@ My name Oliver Smith, I'm from Colombia and I'm a Developer
 * CI tools with Jenkins, Azure DevOps, Github Actions
 * Script with Groovy and some coding Python or Nodejs
 * Testing with Selenium, Screenplay, Cypress, Jmeter, Postman
+* App serverless with golang, python and nodejs, Graphql
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olsmca&layout=compact)]
 
